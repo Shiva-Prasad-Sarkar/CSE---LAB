@@ -1,4 +1,4 @@
-# 🎓 BRAC University Lab Projects
+# 🎓 BRAC University Lab Works
 
 This repository contains lab work from three core courses:
 
